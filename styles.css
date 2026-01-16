@@ -18,5 +18,10 @@
     --color-text: #1f1f1f;
     --color-text-light: #666;
     --color-text-invrtse: #ffffff;
+    /* Fondos */
+    --clor-fg: #ffffff;
+    --color-bg-muted: #f9fafb;
+    --bg-dark: #111827;
+    /* Espaciado*/
      
 }
