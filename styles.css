@@ -9,8 +9,14 @@
   }
 
   :root{
+    */colores ptincipales*/
     --color-primary: #6366f1;
     --clor-primary-dark: #4f46e5;
     --color-secundary: #8b5cf6;
     --color-accent: #f59e0b;
-  }
+    /*  colores de texto */
+    --color-text: #1f1f1f;
+    --color-text-light: #666;
+    --color-text-invrtse: #ffffff;
+     
+}
